@@ -12,3 +12,6 @@ instalasi :
 - jalankan perintah cmd "npm run upp"
 - jalankan server dengan perintah "npm start"
 - lakukan pengujian sesuai routes yang sudah disediakan (cek postman dokumentasi)
+
+note :
+- file dotenv (.env) saya sertakan di file env.txt
